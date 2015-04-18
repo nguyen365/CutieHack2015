@@ -1,0 +1,1 @@
+scripts go in scripts. Will have more complete files later. 
